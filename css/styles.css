@@ -112,6 +112,7 @@ body {
 
 /* features section */
 .features-title {
+    font-size: 14px;
     font-weight: var(--title-font-weight);
     text-transform: uppercase;
 }
